@@ -20,6 +20,7 @@ namespace Asitdemo.Tests.Controllers
 
             // Act
             ViewResult result = controller.Index() as ViewResult;
+            //Test code implemented
 
             // Assert
             Assert.IsNotNull(result);
