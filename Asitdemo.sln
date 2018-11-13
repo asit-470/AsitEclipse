@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asitdemo", "Asitdemo\Asitdemo.csproj", "{B9344B73-3C2E-40CA-96F4-53D7E242EFEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asitdemo.Tests", "Asitdemo.Tests\Asitdemo.Tests.csproj", "{AFF556BA-8570-4F4D-81DE-DE36C709502E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9344B73-3C2E-40CA-96F4-53D7E242EFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9344B73-3C2E-40CA-96F4-53D7E242EFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9344B73-3C2E-40CA-96F4-53D7E242EFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9344B73-3C2E-40CA-96F4-53D7E242EFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF556BA-8570-4F4D-81DE-DE36C709502E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF556BA-8570-4F4D-81DE-DE36C709502E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF556BA-8570-4F4D-81DE-DE36C709502E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF556BA-8570-4F4D-81DE-DE36C709502E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D60BBCA6-97D8-436C-98F6-D79A15E8D48B}
+	EndGlobalSection
+EndGlobal
